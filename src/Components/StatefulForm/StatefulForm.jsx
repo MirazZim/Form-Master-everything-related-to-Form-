@@ -1,4 +1,4 @@
-//2. Use individual field State
+//2.Controlled element: Use individual field State for each field
 
 import { useState } from "react";
 
